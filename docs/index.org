@@ -58,7 +58,8 @@ d s= (or =C-h d s=).
 - Other ways to support Doom Emacs
 - Special thanks
 
-** TODO [[file:workflow.org][Workflow Tips, Tricks & Tutorials]]
+** TODO Workflow Tips, Tricks & Tutorials
+Will be made available on the discourse.
 
 ** [[file:modules.org][Module Appendix]]
 
